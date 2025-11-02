@@ -17,12 +17,12 @@ main:
   
   - title: "团队"
     url: /portfolio/
-        
-  - title: "报告"
-    url: /talks/   
-
+      
   - title: "教学"
     url: /teaching/  
+
+  - title: "报告"
+    url: /talks/   
 
   - title: "新闻"
     url: /news/
