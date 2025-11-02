@@ -8,6 +8,9 @@ main:
   - title: "论文"
     url: /publications/
  
+  - title: "项目"
+    url: /projects/    # ← 这是新增的“项目”栏目
+ 
   - title: "团队"
     url: /portfolio/
         
