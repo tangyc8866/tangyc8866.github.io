@@ -3,15 +3,16 @@
 
 更新内容的网址：<https://github.com/tangyc8866/tangyc8866.github.io/tree/main/_pages>
 
-相关页面对应文件： -
-首页：[about.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/about.md) -
-论文：[publications.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/publications.md) -
-项目：[awards.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/project.md) -
-荣誉：[awards.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/awards.md) -
-团队：[portfolio.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/portfolio.md) -
-教学：[teaching.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/teaching.md) -
-报告：[talks.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/talks.md) -
-新闻：[news.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/news.md)
+相关页面对应文件： 
+
+- 首页：[about.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/about.md) 
+- 论文：[publications.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/publications.md) 
+- 项目：[awards.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/project.md)  
+- 荣誉：[awards.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/awards.md) 
+- 团队：[portfolio.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/portfolio.md) 
+- 教学：[teaching.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/teaching.md) 
+- 报告：[talks.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/talks.md) 
+- 新闻：[news.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/news.md)
 
 图片存储地址：<https://github.com/tangyc8866/tangyc8866.github.io/tree/main/images>
 
