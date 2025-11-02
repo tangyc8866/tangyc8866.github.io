@@ -24,9 +24,11 @@ main:
   - title: "报告"
     url: /talks/   
 
-  - title: "资源"
+  - title: "新闻"
     url: /news/
     
+  - title: "资源"
+    url: /source/
 
   # - title: "Guide"
   #   url: /markdown/

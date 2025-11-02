@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "资源"
+title: "新闻"
 permalink: /news/
 author_profile: true
 ---
