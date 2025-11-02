@@ -21,7 +21,7 @@ repository               : "XU-ANCHA/tangyc8866.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.pdf"
+  avatar           : "profile.png"
   name             : "汤银才"
   pronouns         : # example: "he/his"  
   bio              : "教授, 博士生导师"
