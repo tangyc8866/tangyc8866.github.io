@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "徐安察的个人主页"
+title                    : "汤银才的个人主页"
 title_separator          : "-"
-name                     : &name "徐安察"
+name                     : &name "汤银才"
 description              : &description "personal description"
 url                      : https://xu-ancha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,26 +22,25 @@ repository               : "XU-ANCHA/XU-ANCHA.github.io"
 author:
   # Biographic information
   avatar           : "yixing.jpg"
-  name             : "徐安察"
+  name             : "汤银才"
   pronouns         : # example: "he/his"  
   bio              : "教授, 博士生导师"
-  location         : "浙江, 中国"
-  employer         : "浙江工商大学"
+  location         : "上海, 中国"
+  employer         : "华东师范大学"
   uri              : # URL
-  email            : "xuancha [at] mail.zjgsu.edu.cn" 
-
+  email            : "yctang [at] stat.ecnu.edu.cn" 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=hxbCeZIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=0JKHSIoAAAAJ&view_op=list_works"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-3289-2720"
-  researchgate     : "https://www.researchgate.net/profile/Ancha-Xu"
+  orcid            : "https://orcid.org/0000-0001-6756-6461"
+  researchgate     : "https://www.researchgate.net/profile/Yincai-Tang"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "XU-ANCHA"
+  github           : "tangyc8866"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
