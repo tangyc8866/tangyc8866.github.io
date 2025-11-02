@@ -5,8 +5,6 @@ permalink: /project/
 author_profile: true
 ---
 
-## 科研项目
-
 ### 教学项目
 
 1. 2005年上海市教委21世纪第二期教材建设《SAS统计分析教程》（2003.3–2005.4）
