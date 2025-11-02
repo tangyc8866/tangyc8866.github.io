@@ -1,0 +1,38 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+  <!-- 将访客地图代码放在这里，确保它只在首页显示 -->
+  {% if page.url == "/" %}
+  <!--   <div class="visitor-map"> -->
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=LBKgUGZd7DWD65y6iQTiduK_hVW3Zfrj91YYaprI-ME'></script>
+  <!--  </div>  -->
+  {% endif %}
+
+    {% include scripts.html %}
+
+  </body>
+</html>
