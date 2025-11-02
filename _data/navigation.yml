@@ -9,7 +9,7 @@ main:
     url: /publications/
  
   - title: "项目"
-    url: /projects/    # ← 这是新增的“项目”栏目
+    url: /project/    # ← 这是新增的“项目”栏目
  
   - title: "团队"
     url: /portfolio/
@@ -21,7 +21,7 @@ main:
     url: /teaching/  
 
   - title: "新闻"
-    url: /year-archive/
+    url: /news/
     
 
   # - title: "Guide"

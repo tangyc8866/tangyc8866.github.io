@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "新闻"
-permalink: /year-archive/
+permalink: /news/
 author_profile: true
 ---
 
