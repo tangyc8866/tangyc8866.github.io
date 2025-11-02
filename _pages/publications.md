@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 学术经历
-
-汤银才，华东师范大学统计学教授，博士生导师。 1985 年上海师范大学数学系本科毕业，1992 年于上海师范大学数学系取得理学硕士学位，1999年于华东师范大学统计系取得博士学位，1997年6月晋升为副教授，2006年1月晋升为教授。2010年9月至2011年2月应邀访问美国Missouri大学Columbia分析统计系，进行合作研究。主持国家自然科学基金面上项目四项，参与并完成省部级以上项目十多项，在国内外重要学术期刊上发表学术论文100多篇。曾获上海市科学技术进步三等奖(1997)、全国统计科学技术进步二等奖(1996)、高等教育上海市级教学成果三等奖（2002）、上海市统计科学研究成果课题类一等奖(1995)、上海市教育发展基金委申银万国奖(2009)、上海市科学技术三等奖(2017)、APARM2017最佳论文奖(2017)、华为上海研究所优秀技术成果奖（2020）。
-
 ## 教材著作
 
 1. 《统计年刊》(第四册)，科学出版社，2003  
@@ -68,11 +64,33 @@ author_profile: true
 
 
 
+## 中文论文
+
+1. 黄贵良, **汤银才**. "固体电解电容器序进应力加速寿命试验及数据处理." *应用概率统计*, 13(3) (1997), 330–.
+
+2. **汤银才**. "序进应力加速寿命试验的统计分析及其在电子元件中的应用." *全国自然科学技术进步奖论文集*, (1997年10月).
+
+3. **汤银才**, 费鹤良. "基于 Gibbs 抽样的 Weibull 分布序进应力加速寿命试验的 Bayes 分析." *系统科学与应用概率*, 13(1998), 81–88.
+
+4. **汤银才**, 费鹤良. "基于 Weibull 分布的序进应力加速寿命试验的统计分析及其软件包." *高校应用数学学报*, 4(1998), 408–413.
+
+5. **汤银才**. "加速寿命试验的 Bayes 估计算法改进." *应用数学与计算数学学报*, 11(1997), 32–45.
+
+6. **汤银才**. "三参数 Weibull 分布的渐近一极小二乘估计." *应用概率统计*, 15(1999), 187–192.
 
 
 
+## 会议邀请报告 / 论文
 
+1. **Tang Yincai**, Fei Heliang. "Bayesian Analysis for the Progressive Stress Accelerated Life Testing under Weibull Distributions." *The Third International Conference of Reliability, Maintenance and Safety (ICRMS)*, Guangzhou, (1996), 360–364.
 
+2. **Tang Yincai**. "The Estimation for the Ordered Location Parameters of Multiple Exponential Distributions." *The Fourth International Conference of Reliability, Maintenance and Safety (ICRMS)*, Shanghai, (1999), 99–104.
+
+3. **Tang Yincai**. "Bayesian Statistical Analysis of Progressive Stress Accelerated Life Testing of Log-Normal Distributions under CE model." *The Fifth International Conference of Reliability, Maintenance and Safety (ICRMS)*, Dalia, (2001), 109–114.
+
+4. **Tang Yincai**. "Bayesian Statistical Analysis of Progressive Stress Accelerated Life Testing of Log-Normal Distributions under CE model." *The Fifth International Chinese Statistical Association (ICSA) International Conference*, 17–18 August, 2001. The University of Hong Kong.
+
+5. **Tang Yincai**. "Bayesian Inference for the Weibull Step-Stress Accelerated Life Tests under TFR Model." *Bernoulli Society East Asian and Pacific Regional Conference*, 18–20 December, 2003. The Hong Kong University of Science and Technology.
 
 
 
