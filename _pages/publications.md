@@ -105,9 +105,12 @@ author_profile: true
 78. Jia Wei Xu, **Yincai Tang**. "Bayesian Framework for Multi-Wave COVID-19 Epidemic Analysis Using Empirical Vaccination Data". *Symmetry*, Vol.10, 2022, 21.
 79. Shirong Zhou, Ancha Xu, **Yincai Tang**. "A Generalized Wiener Process with Dependent Degradation Rate and Volatility and Non-Constant Mean-to-Variance Ratio". *Reliability Engineering and System Safety*, Vol.40, 2021, pp5871–5893.
 80. Shirong Zhou, Ancha Xu, **Yincai Tang**. "Fast and Accurate Bayesian Inference of Reparameterized Gamma Process with Random Effects". *IEEE Transactions on Reliability*, Vol.99, 2023, pp1–14.
-81. Xiaofan Lin, Siliang Zhang, **Yincai Tang**, Xuan Li. "A Gibbs-INLA Algorithm for Multidimensional Graded Response Model Analysis". *British Journal of Mathematical and Statistical Psychology*, 2023, 12321.
-82. Haiyan Zhu, Danni Lu, M.D., D. Ware Branch, James Troendle, **Yincai Tang**, Jun Zhang. "Oxytocin Is Not Associated with Postpartum Hemorrhage in Labor Augmentation: A Retrospective Cohort Study in the United States". *American Journal of Obstetrics & Gynecology*, 2023.
+81. Xiaofan Lin, Siliang Zhang, **Yincai Tang**, Xuan Li. "A Gibbs-INLA Algorithm for Multidimensional Graded Response Model Analysis". *British Journal of Mathematical and Statistical Psychology*, 2023, 12321, pp169-195.
+82. Haiyan Zhu, Danni Lu, M.D., D. Ware Branch, James Troendle, **Yincai Tang**, Jun Zhang. "Oxytocin Is Not Associated with Postpartum Hemorrhage in Labor Augmentation: A Retrospective Cohort Study in the United States". *American Journal of Obstetrics & Gynecology*, 2024, 230(2), 247.e1-9.
 83. Shirong Zhou, **Yincai Tang**, Ancha Xu. "Fast Approximate Bayesian Inference for Step-Stress Accelerated Degradation Tests Based on Wiener Process". *IEEE Transactions on Reliability*, 2023.
+84. Xiaofan Lin, **Yincai Tang**. An efficient PG-INLA algorithm for the Bayesian inference of logistic item response models, *Statistical Theory and Related Fields*, 2025, 9(1): 84-100.
+85. Xuan Li, **Yincai Tang**, Jingsi Ming, Xingjie Shi. A Bayesian hierarchical model with spatially varying dispersion for reference-free cell type deconvolution in spatial transcriptomics, *Statistical Theory and Related Fields*, 2025, 9(2):178-212.
+
 
 ## 中文论文
 
