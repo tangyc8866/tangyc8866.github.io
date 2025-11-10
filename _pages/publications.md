@@ -110,6 +110,9 @@ author_profile: true
 83. Shirong Zhou, **Yincai Tang**, Ancha Xu. "Fast Approximate Bayesian Inference for Step-Stress Accelerated Degradation Tests Based on Wiener Process". *IEEE Transactions on Reliability*, 2023.
 84. Xiaofan Lin, **Yincai Tang**. An efficient PG-INLA algorithm for the Bayesian inference of logistic item response models, *Statistical Theory and Related Fields*, 2025, 9(1): 84-100.
 85. Xuan Li, **Yincai Tang**, Jingsi Ming, Xingjie Shi. A Bayesian hierarchical model with spatially varying dispersion for reference-free cell type deconvolution in spatial transcriptomics, *Statistical Theory and Related Fields*, 2025, 9(2):178-212.
+86. Ancha Xu, Jingyang Wang, **Yincai Tang**, Piao Chen. Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process. *Naval Research Logistics*, 72(3), 2025, 319–336.
+87. Shirong Zhou, **Yincai Tang**, Ancha Xu, Xinze Lian, Chunling Luo. Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model. *Reliability Engineering and System Safety*, 265 (2026) 111461.
+88. Pingping Wang, **Yincai Tang**. Remaining useful life prediction based on exponential dispersion process with random drifts. *Statistical Theory and Related Fields*, 2025.
 
 
 ## 中文论文
