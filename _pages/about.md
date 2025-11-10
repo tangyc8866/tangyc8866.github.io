@@ -66,11 +66,13 @@ redirect_from:
 
 1. 《Statistical Theory and Related Fields》（执行）主编, 编委
 
-1. 《应用概率统计》编委
+1. 《Journal of Reliability Science and Engineering》编委
+
+1. 《应用概率统计》编辑部主任
 
 1. 《华东师范大学学报》（自然科学版）编委
 
-1. 中国现场统计研究会可靠性工程分会副理事长
+1. 中国现场统计研究会可靠性工程分会荣誉理事长
 
 1. 中国现场统计研究会大数据分会常务理事、副秘书长
 
