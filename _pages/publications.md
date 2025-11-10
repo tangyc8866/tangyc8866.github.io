@@ -26,164 +26,116 @@ author_profile: true
 ### 英文论文
 
 1. **Tang Yincai**, Fei Heilang. "Maximum Likelihood Estimation in the Life Testing for the Two-Parameter Exponential Distribution with Replacement". *Chinese Journal of Applied Probability and Statistics*, Vol.10 (1994), 399–404.
-
 2. Fei Heilang, Kong Fanhui, **Tang Yincai**. "Estimation for Two-parameter Weibull Distribution and Extreme Value Distribution under Multiple Type II Censoring". *Communications in Statistics: Theory and Methods*, Vol.24 (1995), 2087–2104.
-
 3. **Tang Yincai**. "Constrained Improvement to the Parameter Estimation of Progressive Stress Accelerated Life Testing". *Journal of Shanghai Normal University*, 25 (1996), 12–18.
-
 4. **Tang Yincai**, Fei Heilang. "A New Way to Estimate the Parameters in the Progressive Stress Accelerated Life Testing". *Applied Mathematics–JCU*, 11B (1996), 445–458.
-
 5. **Tang Yincai**. "Approximated Parameter Estimation of Three-parameter Log-normal Distributions Based on Generalized Least Squares Method". *Journal of Shanghai Normal University*, 4 (2001).
-
 6. Xu Haiyan, **Tang Yincai**. "Commentary: The Khamis–Higgins Model". *IEEE Transactions on Reliability*, Vol.52 (1), (2003), 1–6.
-
-7. Yin-cai Tang, He-liang Fei. "Detecting Change Points in Polynomial Regression Models with an Application to Cable Data Sets". *Acta Mathematicae Applicatae Sinica (English Series)*, Vol.20(4) (2004), 541–546.
-
+7. **Yin-cai Tang**, He-liang Fei. "Detecting Change Points in Polynomial Regression Models with an Application to Cable Data Sets". *Acta Mathematicae Applicatae Sinica (English Series)*, Vol.20(4) (2004), 541–546.
 8. Yong-Bin Shi, **Yin-Cai Tang**, et al. "Two Classes of Simple MCD Graphs". *Lecture Notes in Discrete Geometry, Combinatorics and Graph Theory*. Springer-Verlag, 2007, pp.177–188.
-
 9. Ancha Xu, **Yincai Tang**. "Bayesian Analysis of Pareto Reliability with Dependent Masked Data". *IEEE Transactions on Reliability*, Vol.58(4), 2009, 583–588. DOI: [10.1109/TR.2009.2026811](https://doi.org/10.1109/TR.2009.2026811)
-
 10. Ancha Xu, **Yincai Tang**. "Reference Analysis for Birnbaum–Saunders Distribution". *Computational Statistics and Data Analysis*, Vol.54(1), 2010, 185–192. DOI: [10.1016/j.csda.2009.08.004](https://doi.org/10.1016/j.csda.2009.08.004)
-
 11. Xiaodi Wang, **Yincai Tang**, et al. "Design of Experiment in Global Sensitivity Analysis Based on ANOVA High-Dimensional Model Representation". *Communications in Statistics – Theory and Methods*, Vol.39(6), 2010, 1183–1195. DOI: [10.1080/03610918.2010.484122](https://doi.org/10.1080/03610918.2010.484122)
-
 12. Ancha Xu, **Yincai Tang**. "EM Algorithm for Degradation Data Analysis". *Journal of East China Normal University (Natural Science)*, 2010(5): 38–48.
-
 13. Linyi Qian, Wei Wang, Rongming Wang and **Yincai Tang**. "Valuation of Equity-indexed Annuity under Stochastic Mortality and Interest Rate". *Insurance: Mathematics and Economics*, 47 (2010), 123–129. DOI: [10.1016/j.insmatheco.2010.06.005](https://doi.org/10.1016/j.insmatheco.2010.06.005)
-
 14. Ancha Xu, **Yincai Tang**. "Nonparametric Bayesian Analysis of Competing Risks Model with Masked Data". *Communications in Statistics – Theory and Methods*, Vol.40(13), 2011, 2326–2336. DOI: [10.1080/03610921003786830](https://doi.org/10.1080/03610921003786830)
-
 15. Ancha Xu, **Yincai Tang**. "Bayesian Analysis of Birnbaum–Saunders Distribution with Partial Information". *Computational Statistics and Data Analysis*, Vol.55(7), 2011, 2324–2333. DOI: [10.1016/j.csda.2011.01.021](https://doi.org/10.1016/j.csda.2011.01.021)
-
 16. Ancha Xu, **Yincai Tang**. "Objective Bayesian Analysis of Accelerated Competing Failure Models under Type-I Censoring". *Computational Statistics and Data Analysis*, Vol.55(10), 2011, 2830–2839. DOI: [10.1016/j.csda.2011.04.009](https://doi.org/10.1016/j.csda.2011.04.009)
-
 17. Xiaodi Wang, **Yincai Tang**, Yingshan Zhang. "Orthogonal Arrays for the Estimation of Global Sensitivity Indices Based on ANOVA High-Dimensional Model Representation". *Communications in Statistics – Simulation and Computation*, Vol.40(9), 2011, 1324–1341. DOI: [10.1080/03610918.2011.575500](https://doi.org/10.1080/03610918.2011.575500)
-
-18. Ancha Xu and **Yincai Tang**. "Statistical Analysis of Competing Failure Modes in Accelerated Life Testing Based on Assumed Copulas (基于Copulas加速寿命试验中竞争失效模型的统计分析)". *Chinese Journal of Applied Probability and Statistics*, Vol.28 (2012)(1), 51–62.
-
+18. Ancha Xu and **Yincai Tang**. "Statistical Analysis of Competing Failure Modes in Accelerated Life Testing Based on Assumed Copulas". *Chinese Journal of Applied Probability and Statistics*, Vol.28 (2012)(1), 51–62.
 19. Haifen Li, Jiajia Zhang, **Yincai Tang**. "Induced Smoothing for the Semiparametric Accelerated Hazards Model". *Computational Statistics and Data Analysis*, Vol.56(12), Dec. 2012, 4312–4319. DOI: [10.1016/j.csda.2012.04.001](https://doi.org/10.1016/j.csda.2012.04.001)
-
 20. Xiaodi Wang, **Yincai Tang**, Yingshan Zhang. "Orthogonal Arrays for Estimating Global Sensitivity Indices of Non-parametric Models Based on ANOVA High-Dimensional Model Representation". *Journal of Statistical Planning and Inference*, Vol.142(7), July 2012, 1801–1812. DOI: [10.1016/j.jspi.2012.02.043](https://doi.org/10.1016/j.jspi.2012.02.043)
-
 21. Qiang Guan, **Yincai Tang**. "Optimal Step-Stress Test under Type-I Censoring for Multivariate Exponential Distribution". *Journal of Statistical Planning and Inference*, Vol.142(7), July 2012, 1908–1923. DOI: [10.1016/j.jspi.2012.02.029](https://doi.org/10.1016/j.jspi.2012.02.029)
-
 22. Jiayu Fu, Ancha Xu and **Yincai Tang**. "Objective Bayesian Analysis of Pareto Distribution under Progressive Type-II Censoring". *Statistics and Probability Letters*, Vol.82(10), Oct. 2012, 1829–1836. DOI: [10.1016/j.spl.2012.06.007](https://doi.org/10.1016/j.spl.2012.06.007)
-
 23. **Yincai Tang**, Qiang Guan, Peirong Xu, Haiyan Xu. "Optimum Design for Type-I Step-Stress Accelerated Life Tests of Two-Parameter Weibull Distributions". *Communications in Statistics – Theory and Methods*, Vol.41(21), Sept. 2012. DOI: [10.1080/03610926.2012.707456](https://doi.org/10.1080/03610926.2012.707456)
-
 24. Ancha Xu, **Yincai Tang**. "Objective Bayesian Analysis for Linear Degradation Models". *Communications in Statistics – Theory and Methods*, Vol.41(21), Sept. 2012. DOI: [10.1080/03610926.2012.705942](https://doi.org/10.1080/03610926.2012.705942)
-
 25. Ancha Xu, **Yincai Tang**. "An Overview on Statistical Analysis for Masked System Lifetime Data". *Chinese Journal of Applied Probability and Statistics*, Vol.28(4), 2012, 380–6388 (pp. 380–638).
-
 26. Kamran Abbas, **Tang Yincai**, Kamran Abbas and Tang Yincai. "Comparison of Estimation Methods for Fréchet Distribution with Known Shape". *Caspian Journal of Applied Sciences Research*, Vol.1(10), 2012, 58–64.
-
 27. Abbas, K. and **Tang Y.** (2013). "Estimation of Parameters for Fréchet Distribution Based on Type-II Censored Samples". *Caspian Journal of Applied Sciences Research*, 2(7), 36–43.
-
 28. Kamran Abbas, Jiayu Fu, **Yincai Tang**. "Bayesian Estimation of Gumbel Type-II Distribution". *Data Science Journal*, Vol.12, August 2013, 33–46.
-
 29. Ancha Xu and **Yincai Tang**. "Posterior Property in Nonparametric Mixed-Effects Model". *Applied Mathematics B – A Journal of Chinese Universities (高校应用数学学报英文版)*, Series B, Vol.28(3), September 2013, 369–378.
-
 30. Qiang Guan, **Tang Yincai**. "Optimal Design of Accelerated Degradation Test Based on Gamma Process Models". *Chinese Journal of Applied Probability and Statistics*, Vol.29(2), 2013, 213–224.
-
 31. Qiang Guan, **Yincai Tang**, Ancha Xu. "Objective Bayesian Analysis for Bivariate Marshall–Olkin Exponential Distribution". *Computational Statistics and Data Analysis*, Vol.64, August 2013, 299–313.
-
 32. Abbas, K. and **Tang Y.** "Objective Bayesian Analysis of Fréchet Stress Strength Model". *Statistics and Probability Letters*, Vol.84, January 2014, 169–175.
-
 33. Ancha Xu, **Yincai Tang**, Qiang Guan. "Bayesian Analysis of Masked Data in Step-Stress Accelerated Life Testing". *Communications in Statistics – Theory and Methods*, Vol.43(8), 2014, 2016–2030.
-
 34. Jiayu Fu, **Yincai Tang**, Qiang Guan. "Objective Bayesian Analysis for Recurrent Events in Presence of Competing Risks". *Quality Technology and Quantitative Management*, Vol. 11(3), 2014, 265–279.
-
 35. Ancha Xu, Sanjib Basu, **Yincai Tang**. "A Full Bayesian Approach for Masked Data in Step-Stress Accelerated Life Testing". *IEEE Transactions on Reliability*, Vol.63(3), September 2014, 798–806.
-
 36. Haifen Li, Jiajia Zhang, **Yincai Tang**. "Smooth Semi-nonparametric Analysis for Mixture Cure Models and Its Application to Breast Cancer". *Australian & New Zealand Journal of Statistics*, Vol.56(3), September 2014, pp. 217–235.
-
 37. Xiaodi Wang, Yingshan Zhang, **Yincai Tang**. "Feasible Criterion for Designs Based on Fixed Effect ANOVA Model". *Statistics and Probability Letters*, Vol. 87, April 2014, pp. 134–142.
-
 38. Ancha Xu, **Yincai Tang**. "A Bayesian Method for Planning Accelerated Life Testing". *IEEE Transactions on Reliability*, Vol. 64(4), December 2015, pp. 1383–1392.
-
 39. Ancha Xu, **Yincai Tang**. "Reference Optimality Criterion for Planning Accelerated Life Testing". *Journal of Statistical Planning and Inference*, 2015, 167, pp. 14–26.
-
 40. Ancha Xu, **Yincai Tang**, Dongchu Sun. "Objective Bayesian Analysis for Masked Data under Symmetric Assumption". *Statistics and Its Interface*, Vol. 8 (2015), pp. 227–237.
-
 41. Kamran Abbas, **Yincai Tang**. "Analysis of Fréchet Distribution Using Reference Priors". *Communications in Statistics – Theory and Methods*, Vol. 44(14), 2015, pp. 2945–2956.
-
 42. Pingping Wang, **Yincai Tang**, Hui Chen. "Bayesian Analysis for Change-point Linear Regression Models". *Chinese Journal of Applied Probability and Statistics*, Vol. 31(1), 2015, pp. 89–102.
-
 43. Ancha Xu, Jiayu Fu, **Yincai Tang**, Qiang Guan. "Bayesian Analysis of Constant-Stress Accelerated Life Test for the Weibull Distribution Using Noninformative Priors". *Applied Mathematical Modelling*, Vol. 39 (2015), pp. 6183–6195.
-
 44. Kamran Abbas, **Yincai Tang**. "Bayesian Estimation of Fréchet Distribution under Asymmetric Loss Functions". *The Aligarh Journal of Statistics*, Vol. 35 (2015), pp. 91–106.
-
-45. Qiang Guan, **Yincai Tang**. "Bayesian Planning of Optimal Step-Stress Accelerated Life Test for Log-Location-Scale Distributions". *Applied Mathematics Modelling*, Vol. 44(4), 2016, pp. 2743–2755.
-
-46. Kamran Abbas, **Yincai Tang**. "Objective Bayesian Analysis for Log-logistic Distribution". *Communications in Statistics – Simulation and Computation*, Vol. 45(8), 2016, pp. 2782–2791. DOI: [10.1080/03610918.2014.925925](https://doi.org/10.1080/03610918.2014.925925)
-
-47. Ancha Xu, **Yincai Tang**, Qiang Guan, Xinze Lian. "Planning Simple Step-Stress Accelerated Life Tests Using Reference Optimality Criterion". *Journal of Risk and Reliability*, Vol. 230(1), 2016, pp. 85–92. DOI: [10.1177/1748006X15580469](https://doi.org/10.1177/1748006X15580469)
-
-48. Qiang Guan, **Yincai Tang**, Ancha Xu. "Objective Bayesian Analysis for Accelerated Degradation Tests Based on Wiener Process Models". *Applied Mathematical Modelling*, Vol. 40(4), 2016, pp. 2743–2755. DOI: [10.1016/j.apm.2015.09.076](https://doi.org/10.1016/j.apm.2015.09.076)
-
+45. Kamran Abbas, **Yincai Tang**. "Objective Bayesian Analysis for Log-logistic Distribution". *Communications in Statistics – Simulation and Computation*, Vol. 45(8), 2016, pp. 2782–2791. DOI: [10.1080/03610918.2014.925925](https://doi.org/10.1080/03610918.2014.925925)
+46. Ancha Xu, **Yincai Tang**, Qiang Guan, Xinze Lian. "Planning Simple Step-Stress Accelerated Life Tests Using Reference Optimality Criterion". *Journal of Risk and Reliability*, Vol. 230(1), 2016, pp. 85–92. DOI: [10.1177/1748006X15580469](https://doi.org/10.1177/1748006X15580469)
+47. Qiang Guan, **Yincai Tang**, Ancha Xu. "Objective Bayesian Analysis for Accelerated Degradation Tests Based on Wiener Process Models". *Applied Mathematical Modelling*, Vol. 40(4), 2016, pp. 2743–2755. DOI: [10.1016/j.apm.2015.09.076](https://doi.org/10.1016/j.apm.2015.09.076)
+48. Qiang Guan, **Yincai Tang**. "Bayesian Planning of Optimal Step-Stress Accelerated Life Test for Log-Location-Scale Distributions". *Applied Mathematics Modelling*, Vol. 44(4), 2016, pp. 2743–2755.
 49. Yongqiang Lian, **Yincai Tang**, Yijun Wang. "Objective Bayesian Analysis of JM Model in Software Reliability". *Computational Statistics and Data Analysis*, Vol. 109, 2017, pp. 199–214.
+    
+51. **Yincai Tang**, Wenchun Liu, Ancha Xu. "Statistical Inference for Zero-and-One-Inflated Poisson Models". *Statistical Theory and Related Fields*, Vol. 1(2), 2017, pp. 216–226.
 
-50. **Yincai Tang**, Wenchun Liu, Ancha Xu. "Statistical Inference for Zero-and-One-Inflated Poisson Models". *Statistical Theory and Related Fields*, Vol. 1(2), 2017, pp. 216–226.
+52. **Yincai Tang**, Jiayu Fu, Wenchun Liu, Ancha Xu. "Bayesian Analysis of Repairable Systems with Modulated Power Law Process". *Applied Mathematical Modelling*, Vol.44 (2017), 357–373.
 
-51. **Yincai Tang**, Jiayu Fu, Wenchun Liu, Ancha Xu. "Bayesian Analysis of Repairable Systems with Modulated Power Law Process". *Applied Mathematical Modelling*, Vol.44 (2017), 357–373.
+53. Pingping Wang, **Yincai Tang**, Ancha Xu. "Bayesian Analysis of Compound Poisson Process with Change-point". *Quality Technology & Quantitative Management*, 2017, 1–21. DOI: [10.1080/16843703.2017.1399511](https://doi.org/10.1080/16843703.2017.1399511)
 
-52. Pingping Wang, **Yincai Tang**, Ancha Xu. "Bayesian Analysis of Compound Poisson Process with Change-point". *Quality Technology & Quantitative Management*, 2017, 1–21. DOI: [10.1080/16843703.2017.1399511](https://doi.org/10.1080/16843703.2017.1399511)
+54. Ancha Xu, Shirong Zhou, **Yincai Tang**. "Bayesian Analysis of Series System with Dependent Causes of Failure". *Statistical Theory and Related Fields*, Vol.1(1), 2017, 128–140.
 
-53. Ancha Xu, Shirong Zhou, **Yincai Tang**. "Bayesian Analysis of Series System with Dependent Causes of Failure". *Statistical Theory and Related Fields*, Vol.1(1), 2017, 128–140.
+55. Pingping Wang, **Yincai Tang**, Suk Joo Bae, Yong He. "Bayesian Analysis of Two-phase Degradation Data Based on Change-point Wiener Process". *Reliability Engineering and System Safety*, Vol.170, 2018, 244–256.
 
-54. Pingping Wang, **Yincai Tang**, Suk Joo Bae, Yong He. "Bayesian Analysis of Two-phase Degradation Data Based on Change-point Wiener Process". *Reliability Engineering and System Safety*, Vol.170, 2018, 244–256.
+56. Wenchun Liu, **Yincai Tang**, Ancha Xu. "A Zero-and-One Inflated Poisson Model and Its Application". *Statistics and Its Interface*, Vol.11(2), 2018, 339–351.
 
-55. Wenchun Liu, **Yincai Tang**, Ancha Xu. "A Zero-and-One Inflated Poisson Model and Its Application". *Statistics and Its Interface*, Vol.11(2), 2018, 339–351.
+57. Qiang Guan, **Yincai Tang**. "Bayesian Planning of Optimal Step-Stress Accelerated Life Test for Log-location-scale Distributions". *Acta Mathematicae Applicatae Sinica*, Vol.34(1), 2018, 51–64.
 
-56. Qiang Guan, **Yincai Tang**. "Bayesian Planning of Optimal Step-Stress Accelerated Life Test for Log-location-scale Distributions". *Acta Mathematicae Applicatae Sinica*, Vol.34(1), 2018, 51–64.
+58. Pingping Wang, **Yincai Tang**, Suk Joo Bae, Ancha Xu. "Bayesian Approach for Two-phase Degradation Data Based on Change-point Wiener Process with Measurement Errors". *IEEE Transactions on Reliability*, Vol.67(2), 2018, 688–700.
 
-57. Pingping Wang, **Yincai Tang**, Suk Joo Bae, Ancha Xu. "Bayesian Approach for Two-phase Degradation Data Based on Change-point Wiener Process with Measurement Errors". *IEEE Transactions on Reliability*, Vol.67(2), 2018, 688–700.
+59. Ancha Xu, Lijuan Shen, Bingxing Wang, **Yincai Tang**. "On Modeling Bivariate Wiener Degradation Process". *IEEE Transactions on Reliability*, Vol.67(3), 2018, 897–906.
 
-58. Ancha Xu, Lijuan Shen, Bingxing Wang, **Yincai Tang**. "On Modeling Bivariate Wiener Degradation Process". *IEEE Transactions on Reliability*, Vol.67(3), 2018, 897–906.
+60. Lijuan Shen, Yudong Wang, Qingqing Zhai, **Yincai Tang**. "Degradation Modeling Using Stochastic Processes with Random Initial Degradation". *IEEE Transactions on Reliability*, Vol.68(4), 2019, 1320–1329.
 
-59. Lijuan Shen, Yudong Wang, Qingqing Zhai, **Yincai Tang**. "Degradation Modeling Using Stochastic Processes with Random Initial Degradation". *IEEE Transactions on Reliability*, Vol.68(4), 2019, 1320–1329.
+61. Shirong Zhou, Ancha Xu. "Exponential Dispersion Process for Degradation Analysis". *IEEE Transactions on Reliability*, Vol.68(2), 2019, 398–409.
 
-60. Shirong Zhou, Ancha Xu. "Exponential Dispersion Process for Degradation Analysis". *IEEE Transactions on Reliability*, Vol.68(2), 2019, 398–409.
+62. Yijun Wang, Jiajia Zhang, **Yincai Tang**. "Bayesian Approach for Proportional Hazards Mixture Cure Model Allowing Non-curable Competing Risk". *Journal of Statistical Computation and Simulation*, *Communications in Statistics: Theory and Methods*, Vol.49(15), 2020, 3663–3680.
 
-61. Yijun Wang, Jiajia Zhang, **Yincai Tang**. "Bayesian Approach for Proportional Hazards Mixture Cure Model Allowing Non-curable Competing Risk". *Journal of Statistical Computation and Simulation*, *Communications in Statistics: Theory and Methods*, Vol.49(15), 2020, 3663–3680.
+63. Wenchun Liu, **Yincai Tang**, Xianyi Wu. "Separating Variables to Accelerated Non-convex Regularized Optimization". *Computational Statistics and Data Analysis*, Vol.147, 2020, 106943.
 
-62. Wenchun Liu, **Yincai Tang**, Xianyi Wu. "Separating Variables to Accelerated Non-convex Regularized Optimization". *Computational Statistics and Data Analysis*, Vol.147, 2020, 106943.
+64. Yijun Wang, Jiajia Zhang, **Yincai Tang**. "Semiparametric Estimation for Accelerated Failure Time Mixture Cure Model Allowing Non-curable Competing Risk". *Statistical Theory and Related Fields*, Vol.4(1), 2020, 97–108.
 
-63. Yijun Wang, Jiajia Zhang, **Yincai Tang**. "Semiparametric Estimation for Accelerated Failure Time Mixture Cure Model Allowing Non-curable Competing Risk". *Statistical Theory and Related Fields*, Vol.4(1), 2020, 97–108.
+65. Xuan Li, **Yincai Tang**, Ancha Xu. "Objective Bayesian Analysis of Weibull Mixture Cure Model". *Quality Engineering*, Vol.32(3), 2020, 449–464.
 
-64. Xuan Li, **Yincai Tang**, Ancha Xu. "Objective Bayesian Analysis of Weibull Mixture Cure Model". *Quality Engineering*, Vol.32(3), 2020, 449–464.
+66. Wenchun Liu, **Yincai Tang**, Ancha Xu. "Zero-and-One Inflated Poisson Regression Model". *Statistical Papers*, Vol.62, 2021, 915–934.
 
-65. Wenchun Liu, **Yincai Tang**, Ancha Xu. "Zero-and-One Inflated Poisson Regression Model". *Statistical Papers*, Vol.62, 2021, 915–934.
+67. Yijun Wang, Chao Cai, Wenbin Lu, Jiajia Zhang, **Yincai Tang**. "Semiparametric Estimation for Proportional Hazards Mixture Cure Model Allowing Non-curable Competing Risk". *Journal of Statistical Planning and Inference*, Vol.211, 2021, 171–189.
 
-66. Yijun Wang, Chao Cai, Wenbin Lu, Jiajia Zhang, **Yincai Tang**. "Semiparametric Estimation for Proportional Hazards Mixture Cure Model Allowing Non-curable Competing Risk". *Journal of Statistical Planning and Inference*, Vol.211, 2021, 171–189.
+68. Ancha Xu, Shirong Zhou, **Yincai Tang**. "A Unified Model for System Reliability Evaluation under Dynamic Operating Conditions". *IEEE Transactions on Reliability*, Vol.70(1), 2021, 65–72.
 
-67. Ancha Xu, Shirong Zhou, **Yincai Tang**. "A Unified Model for System Reliability Evaluation under Dynamic Operating Conditions". *IEEE Transactions on Reliability*, Vol.70(1), 2021, 65–72.
+69. Shirong Zhou, **Yincai Tang**. "Variational Bayesian Analysis for Wiener Degradation Model with Random Effects". *Communications in Statistics – Theory and Methods*, Vol.50(16), 2021, 3769–3789.
 
-68. Shirong Zhou, **Yincai Tang**. "Variational Bayesian Analysis for Wiener Degradation Model with Random Effects". *Communications in Statistics – Theory and Methods*, Vol.50(16), 2021, 3769–3789.
+70. Pingping Wang, Ting Fung Ma, Dipankar Bandyopadhyay, **Yincai Tang**, Jun Zhu. "Composite Likelihood Inference for Oral Periodontal Data with Replicated Spatial Patterns". *Statistics in Medicine*, 2021, August 11.
 
-69. Pingping Wang, Ting Fung Ma, Dipankar Bandyopadhyay, **Yincai Tang**, Jun Zhu. "Composite Likelihood Inference for Oral Periodontal Data with Replicated Spatial Patterns". *Statistics in Medicine*, 2021, August 11.
+71. Shirong Zhou, Ancha Xu, **Yincai Tang**. "A Generalized Wiener Process with Dependent Degradation Rate and Volatility and Non-constant Mean-to-variance Ratio". *Reliability Engineering and System Safety*, 2021.
 
-70. Shirong Zhou, Ancha Xu, **Yincai Tang**. "A Generalized Wiener Process with Dependent Degradation Rate and Volatility and Non-constant Mean-to-variance Ratio". *Reliability Engineering and System Safety*, 2021.
+72. Pingping Wang, Ting Fung Ma, Dipankar Bandyopadhyay, **Yincai Tang**, Jun Zhu. "Composite Likelihood Inference for Ordinal Periodontal Data with Replicated Spatial Patterns". *Statistics in Medicine*, August 11, 2021.
 
-71. Pingping Wang, Ting Fung Ma, Dipankar Bandyopadhyay, **Yincai Tang**, Jun Zhu. "Composite Likelihood Inference for Ordinal Periodontal Data with Replicated Spatial Patterns". *Statistics in Medicine*, August 11, 2021.
+73. Shirong Zhou, Ancha Xu, **Yincai Tang**. "A Generalized Wiener Process with Dependent Degradation Rate and Volatility and Non-Constant Mean-to-Variance Ratio". *Reliability Engineering and System Safety*, Vol.40, 2021, pp5871–5893.
 
-72. Shirong Zhou, Ancha Xu, **Yincai Tang**. "A Generalized Wiener Process with Dependent Degradation Rate and Volatility and Non-Constant Mean-to-Variance Ratio". *Reliability Engineering and System Safety*, Vol.40, 2021, pp5871–5893.
+74. Wenchun Liu, Guanfu Liu, **Yincai Tang**. "Robust Sparse Reduced-Rank Regression with Response Dependency". *Symmetry*, Vol.14, 1617, 2022.
 
-73. Wenchun Liu, Guanfu Liu, **Yincai Tang**. "Robust Sparse Reduced-Rank Regression with Response Dependency". *Symmetry*, Vol.14, 1617, 2022.
+75. Yongqiang Lian, **Yincai Tang**, Shirong Zhou. "Research on Three-Step Accelerated Gradient Algorithm in Deep Learning". *Statistical Theory and Related Fields*, 2022, 6(1), 40–57.
 
-74. Yongqiang Lian, **Yincai Tang**, Shirong Zhou. "Research on Three-Step Accelerated Gradient Algorithm in Deep Learning". *Statistical Theory and Related Fields*, 2022, 6(1), 40–57.
+76. Guihong Liu, Quanqiang Guan, **Yincai Tang**, Yunhuei Tzeng. "Interval Modeling for Gamma Process Degradation Model". *Symmetry*, 2022, Vol.14, 954.
 
-75. Guihong Liu, Quanqiang Guan, **Yincai Tang**, Yunhuei Tzeng. "Interval Modeling for Gamma Process Degradation Model". *Symmetry*, 2022, Vol.14, 954.
+77. Jia Wei Xu, **Yincai Tang**. "Bayesian Framework for Multi-Wave COVID-19 Epidemic Analysis Using Empirical Vaccination Data". *Symmetry*, 2022, Vol.10, 21.
 
-76. Jia Wei Xu, **Yincai Tang**. "Bayesian Framework for Multi-Wave COVID-19 Epidemic Analysis Using Empirical Vaccination Data". *Symmetry*, 2022, Vol.10, 21.
+78. Shirong Zhou, Ancha Xu, **Yincai Tang**. "Fast and Accurate Bayesian Inference of Reparameterized Gamma Process with Random Effects". *IEEE Transactions on Reliability*, 2023, Vol.99, pp1–14.
 
-77. Shirong Zhou, Ancha Xu, **Yincai Tang**. "Fast and Accurate Bayesian Inference of Reparameterized Gamma Process with Random Effects". *IEEE Transactions on Reliability*, 2023, Vol.99, pp1–14.
+79. Xiaofan Lin, Siliang Zhang, **Yincai Tang**, Xuan Li. "A Gibbs-INLA Algorithm for Multidimensional Graded Response Model Analysis". *British Journal of Mathematical and Statistical Psychology*, 2023, 12321.
 
-78. Xiaofan Lin, Siliang Zhang, **Yincai Tang**, Xuan Li. "A Gibbs-INLA Algorithm for Multidimensional Graded Response Model Analysis". *British Journal of Mathematical and Statistical Psychology*, 2023, 12321.
+80. Haiyan Zhu, Danni Lu, M.D., D. Ware Branch, James Troendle, **Yincai Tang**, Jun Zhang. "Oxytocin Is Not Associated with Postpartum Hemorrhage in Labor Augmentation: A Retrospective Cohort Study in the United States". *American Journal of Obstetrics & Gynecology*, 2023.
 
-79. Haiyan Zhu, Danni Lu, M.D., D. Ware Branch, James Troendle, **Yincai Tang**, Jun Zhang. "Oxytocin Is Not Associated with Postpartum Hemorrhage in Labor Augmentation: A Retrospective Cohort Study in the United States". *American Journal of Obstetrics & Gynecology*, 2023.
-
-80. Shirong Zhou, **Yincai Tang**, Ancha Xu. "Fast Approximate Bayesian Inference for Step-Stress Accelerated Degradation Tests Based on Wiener Process". *IEEE Transactions on Reliability*, 2023.
+81. Shirong Zhou, **Yincai Tang**, Ancha Xu. "Fast Approximate Bayesian Inference for Step-Stress Accelerated Degradation Tests Based on Wiener Process". *IEEE Transactions on Reliability*, 2023.
 
 
 
