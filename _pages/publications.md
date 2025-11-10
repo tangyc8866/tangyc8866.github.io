@@ -106,13 +106,14 @@ author_profile: true
 79. Shirong Zhou, Ancha Xu, **Yincai Tang**. "A Generalized Wiener Process with Dependent Degradation Rate and Volatility and Non-Constant Mean-to-Variance Ratio". *Reliability Engineering and System Safety*, Vol.40, 2021, pp5871–5893.
 80. Shirong Zhou, Ancha Xu, **Yincai Tang**. "Fast and Accurate Bayesian Inference of Reparameterized Gamma Process with Random Effects". *IEEE Transactions on Reliability*, Vol.99, 2023, pp1–14.
 81. Xiaofan Lin, Siliang Zhang, **Yincai Tang**, Xuan Li. "A Gibbs-INLA Algorithm for Multidimensional Graded Response Model Analysis". *British Journal of Mathematical and Statistical Psychology*, 2023, 12321, pp169-195.
-82. Haiyan Zhu, Danni Lu, M.D., D. Ware Branch, James Troendle, **Yincai Tang**, Jun Zhang. "Oxytocin Is Not Associated with Postpartum Hemorrhage in Labor Augmentation: A Retrospective Cohort Study in the United States". *American Journal of Obstetrics & Gynecology*, 2024, 230(2), 247.e1-9.
-83. Shirong Zhou, **Yincai Tang**, Ancha Xu. "Fast Approximate Bayesian Inference for Step-Stress Accelerated Degradation Tests Based on Wiener Process". *IEEE Transactions on Reliability*, 2023.
+82. Shirong Zhou, **Yincai Tang**, Ancha Xu. "Fast Approximate Bayesian Inference for Step-Stress Accelerated Degradation Tests Based on Wiener Process". *IEEE Transactions on Reliability*, 2023.
+83. Haiyan Zhu, Danni Lu, M.D., D. Ware Branch, James Troendle, **Yincai Tang**, Jun Zhang. "Oxytocin Is Not Associated with Postpartum Hemorrhage in Labor Augmentation: A Retrospective Cohort Study in the United States". *American Journal of Obstetrics & Gynecology*, 2024, 230(2), 247.e1-9.
 84. Xiaofan Lin, **Yincai Tang**. An efficient PG-INLA algorithm for the Bayesian inference of logistic item response models, *Statistical Theory and Related Fields*, 2025, 9(1): 84-100.
 85. Xuan Li, **Yincai Tang**, Jingsi Ming, Xingjie Shi. A Bayesian hierarchical model with spatially varying dispersion for reference-free cell type deconvolution in spatial transcriptomics, *Statistical Theory and Related Fields*, 2025, 9(2):178-212.
 86. Ancha Xu, Jingyang Wang, **Yincai Tang**, Piao Chen. Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process. *Naval Research Logistics*, 72(3), 2025, 319–336.
-87. Shirong Zhou, **Yincai Tang**, Ancha Xu, Xinze Lian, Chunling Luo. Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model. *Reliability Engineering and System Safety*, 265 (2026) 111461.
-88. Pingping Wang, **Yincai Tang**. Remaining useful life prediction based on exponential dispersion process with random drifts. *Statistical Theory and Related Fields*, 2025.
+87. Pingping Wang, **Yincai Tang**. Remaining useful life prediction based on exponential dispersion process with random drifts. *Statistical Theory and Related Fields*, 2025.
+88. Shirong Zhou, **Yincai Tang**, Ancha Xu, Xinze Lian, Chunling Luo. Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model. *Reliability Engineering and System Safety*, 265 (2026) 111461.
+89. Remaining Useful Life Prediction for Gamma Degradation Processes: A Recursive Bayesian Approach. IISE Transactions, 2026. 
 
 
 ## 中文论文
