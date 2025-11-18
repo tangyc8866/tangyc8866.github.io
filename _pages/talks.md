@@ -11,4 +11,7 @@ author_profile: true
    中国现场统计研究会可靠性工程分会 2025 学术年会(陕西, 025 年9 月13-15 日)
 
 1. **退化过程的统计建模：理论与实践** [<a href="/files/slides/退化过程的统计建模-2025-09-14_apr219-withclock.pdf">Slides (16:9)</a>]  
-   闽南师范大学数学与统计学院 学术报告 (2025 年 11 月 5 日)
+   闽南师范大学数学与统计学院 学术报告 (漳州，2025 年 11 月 5 日)
+
+1. **Stochastic Modeling for Two-Stage and Multivariate Degradation Processes** [<a href="/files/slides/Tang-SRSE2024.pdf">Slides</a>]  
+   第六届系统可靠性与安全工程国际会议(SRSE2024) (Hangzhou, October 11-14, 2024)
