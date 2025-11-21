@@ -4,7 +4,7 @@ title: "讲座和报告"
 author_profile: true
 ---
 
-1. **大数据时代统计教学与科研能力提升的思考与探讨**, [Xaringan Slides](https://tangyc8866.github.io/rmarkdown-xaringan-slides/#1) 
+1. **大数据时代统计教学与科研能力提升的思考与探讨**, [<a href="https://tangyc8866.github.io/rmarkdown-xaringan-slides/#1">Xaringan Slides</a>]   
    (2023 年 4 月 7 日)
      
 1. **Stochastic Modeling for Two-Stage and Multivariate Degradation Processes** [<a href="/files/slides/Tang-SRSE2024.pdf">Slides</a>]  
