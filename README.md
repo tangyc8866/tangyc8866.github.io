@@ -13,6 +13,7 @@
 - 教学：[teaching.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/teaching.md) 
 - 报告：[talks.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/talks.md) 
 - 新闻：[news.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/news.md)
+- 资源：[source.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/source.md)
 
 图片存储地址：<https://github.com/tangyc8866/tangyc8866.github.io/tree/main/images>
 
