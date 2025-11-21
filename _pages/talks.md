@@ -3,6 +3,10 @@ permalink: /talks/
 title: "讲座和报告"
 author_profile: true
 ---
+
+1. [大数据时代统计教学与科研能力提升的思考与探讨](https://tangyc8866.github.io/rmarkdown-xaringan-slides/#1)
+   (2023 年)  
+  
 1. **Stochastic Modeling for Two-Stage and Multivariate Degradation Processes** [<a href="/files/slides/Tang-SRSE2024.pdf">Slides</a>]  
    第六届系统可靠性与安全工程国际会议(SRSE2024) (Hangzhou, October 11-14, 2024)
    
