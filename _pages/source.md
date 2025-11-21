@@ -5,9 +5,9 @@ permalink: /source/
 author_profile: true
 ---
 
+- [Bookdown中文书稿写作手册](https://tangyc8866.github.io/bookdown_tutorial/), 2021-07-11
 
-
-- [Quarto 中文书稿写作手册](https://tangyc8866.github.io/Quarto-DS-Paradgm/refs/index.html)
+- [Quarto 中文书稿写作手册](https://tangyc8866.github.io/Quarto-DS-Paradgm/refs/index.html), 2024-08-23
 
 - [各类模板分享](https://github.com/tangyc8866/ECNU-Stat-templates)
   - TeX 学位论文模板
