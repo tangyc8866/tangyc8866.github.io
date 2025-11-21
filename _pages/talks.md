@@ -16,7 +16,7 @@ author_profile: true
 1. **Stochastic Modeling for Two-Stage and Multivariate Degradation Processes** [<a href="/files/slides/Tang-SRSE2024.pdf">Slides</a>]  
    第六届系统可靠性与安全工程国际会议(SRSE2024) (Hangzhou, October 11-14, 2024)
 
-1. **以数据分析为中心的全场景生态建设：统计教学、科研、出版的新范式探索** [<a href="https://tangyc8866.github.io/Quarto-slides-2/#/title-slide">Slides</a>]
+1. **从评审视角看学术论文选题与撰写** [<a href="https://tangyc8866.github.io/Writing-tutorial/#/title-slide">Slides</a>]
    东北师范大学/长春工业大学 学术报告 (长春， 2025-11)
 
 1. **以数据分析为中心的全场景生态建设：统计教学、科研、出版的新范式探索** [<a href="https://tangyc8866.github.io/Quarto-slides-2/#/title-slide">Slides</a>]
