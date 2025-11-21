@@ -12,7 +12,8 @@ author_profile: true
 - [各类模板分享](https://github.com/tangyc8866/ECNU-Stat-templates)
   - TeX 学位论文模板
   - TeX NSFC模板
-  - Rmd 学位论文模板
+  - Rmd 案例分析模板
+  - Rmd 学位论文模板 (本科，研究生)
   - Rmd NSFC模板
   - Rmd Beamer 幻灯片模板
   - Rmd Xaringan 幻灯片模板
