@@ -9,7 +9,7 @@
 - 论文：[publications.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/publications.md) 
 - 项目：[awards.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/project.md)  
 - 荣誉：[awards.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/awards.md) 
-- 团队：[portfolio.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/portfolio.md) 
+- 学生：[portfolio.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/portfolio.md) 
 - 教学：[teaching.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/teaching.md) 
 - 报告：[talks.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/talks.md) 
 - 新闻：[news.md](https://github.com/tangyc8866/tangyc8866.github.io/blob/main/_pages/news.md)
