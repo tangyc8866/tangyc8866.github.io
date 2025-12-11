@@ -112,8 +112,16 @@ author_profile: true
 85. Xuan Li, **Yincai Tang**, Jingsi Ming, Xingjie Shi. A Bayesian hierarchical model with spatially varying dispersion for reference-free cell type deconvolution in spatial transcriptomics, *Statistical Theory and Related Fields*, 2025, 9(2):178-212.
 86. Ancha Xu, Jingyang Wang, **Yincai Tang**, Piao Chen. Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process. *Naval Research Logistics*, 72(3), 2025, 319–336.
 87. Pingping Wang, **Yincai Tang**. Remaining useful life prediction based on exponential dispersion process with random drifts. *Statistical Theory and Related Fields*, 2025.
-88. Shirong Zhou, **Yincai Tang**, Ancha Xu, Xinze Lian, Chunling Luo. Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model. *Reliability Engineering and System Safety*, 265 (2026) 111461.
-89. Remaining Useful Life Prediction for Gamma Degradation Processes: A Recursive Bayesian Approach. IISE Transactions, 2026. 
+88. Liangliang Zhuang, Ancha Xu, Guanqi Fang and **Yincai Tang**. Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction. *Journal of Quality Technology*, 2025, 57(1), 51-67.
+89. Xiaofan Lin and **Yincai Tang**. An efficient PG-INLA algorithm for the Bayesian inference of logistic item response models. *Statistical Theory and Related Fields*, 2025 9(1), 84-100.
+90. Xuan Li, **Yincai Tang**, Jinsi Ming and Xinjie Shi. A Bayesian hierarchical model with spatially varying dispersion for reference-free cell type deconvolution in spatial transcriptomics. *Statistical Theory and Related Fields*, 2025 9(2), 178-212.
+91. Ancha Xu, Jingyang Wang,  **Yincai Tang** and Piao Chen. Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process. **Naval Res Logistics**, 2025, 72, 319–336.
+92. 88. Shirong Zhou, **Yincai Tang**, Ancha Xu, Xinze Lian, Chunling Luo. Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model. *Reliability Engineering and System Safety*, 265 (2026) 111461.
+95. **Siyu Bie**, Guanhao Feng, Naixin Guo and Jingyu He. Can news predict firm bankruptcy? *Journal of Financial Markets*, 2025 (online).
+96. Pingping Wang, **Yincai Tang**. Remaining useful life prediction based on exponential dispersion process with random drifts. *Statistical Theory and Related Fields*, 2025 (online). 
+97. Remaining Useful Life Prediction for Gamma Degradation Processes: A Recursive Bayesian Approach. IISE Transactions, 2026.
+98. Bin Lv, **Yincai Tang**, and Siliang Zhang. Adaptive Bayesian Joint Latent Space Modeling via Cumulative Shrinkage, [submitted](https://arxiv.org/abs/2509.18580) 
+
 
 
 ## 中文论文
