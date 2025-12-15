@@ -291,9 +291,11 @@ author_profile: true
 
 55. Xiaofan Lin, **Yincai Tang**. An Efficient PG-INLA Algorithm for Logistic Item Response Models Analysis. *The Second International Workshop on Statistical Theory and Related Fields*, Tianjin, 2023.
 
-56. **汤银才**. 退化过程的统计建模：理论与实践，中国现场统计研究会可靠性工程分会年会, 陕西延安, 2025-9.
+56. **Yincai Tang**. Stochastic Modeling for Two-Stage and Multivariate Degradation Processes, *第六届系统可靠性与安全工程国际会议(SRSE2024)* October 11-14, 2024. Hangzhou, China. 
 
-57. **汤银才**. AI时代写作与出版新范式的探讨, 中国数学会年会年会, 山东滨州， 2025-10.
+57. **汤银才**. 退化过程的统计建模：理论与实践，*中国现场统计研究会可靠性工程分会年会*, 陕西延安, 2025-9.
+
+58. **汤银才**. AI时代写作与出版新范式的探讨, *中国数学会年会年会*, 山东滨州， 2025-10.
 
 
 
