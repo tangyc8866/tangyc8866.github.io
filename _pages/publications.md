@@ -119,9 +119,10 @@ author_profile: true
 91. **Siyu Bie**, Guanhao Feng, Naixin Guo and Jingyu He. Can news predict firm bankruptcy? *Journal of Financial Markets*, 2025 (online).
 92. Pingping Wang, **Yincai Tang**. Remaining useful life prediction based on exponential dispersion process with random drifts. *Statistical Theory and Related Fields*, 2025 (online).
 93. Remaining Useful Life Prediction for Gamma Degradation Processes: A Recursive Bayesian Approach. IISE Transactions, 2026.
-94. Bin Lv, **Yincai Tang**, and Siliang Zhang. Adaptive Bayesian Joint Latent Space Modeling via Cumulative Shrinkage, [submitted](https://arxiv.org/abs/2509.18580)
+94. Bin Lv, **Yincai Tang**, and Siliang Zhang. Adaptive Bayesian Joint Latent Space Modeling via Cumulative Shrinkage, [submitted](https://arxiv.org/abs/2509.18580), Psychometrika, under revision, 2026. 
 95. Ancha Xu,Zhen Chen, Hong Yin, Yincai Tang. A Bivariate Wiener Degradation Model with Partially RandomScale Weights. RESS, under revision. 2026
 96. Ancha Xu, Yihang Miao, Jiaxiang Sun, Shirong Zhou, Yincai Tang. A Hierarchical Bayesian Multivariate WienerProcess Model with Dependent Degradation Ratesand Volatilities, ITR, under revision, 2026
+97. Intelligent Vibration Prediction for Aero-EngineAssembly:A High-Dimensional Single-IndexModeling Approach with Censored Data,  ITR, under revision, 2026. 
 
 
 
